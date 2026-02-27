@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bgspucnmg",
+    "url": "https://bgspucnmg.edu.in/",
+    "nameEn": "BGSPUCNMG College Website",
+    "nameKa": "BGSPUCNMG ಕಾಲೇಜ್",
+    "screenshotPath": null,
+    "tagsEn": ["Responsive", "College", "Education"],
+    "tagsKa": ["ಪ್ರತಿಕ್ರಿಯಾಶೀಲ", "ಕಾಲೇಜ್", "ಶಿಕ್ಷಣ"],
+    "category": "college"
+  },
+  {
+    "id": "saccngm",
+    "url": "https://saccngm.edu.in/",
+    "nameEn": "SACCNGM College Website",
+    "nameKa": "SACCNGM ಕಾಲೇಜ್",
+    "screenshotPath": null,
+    "tagsEn": ["Responsive", "College", "Education"],
+    "tagsKa": ["ಪ್ರತಿಕ್ರಿಯಾಶೀಲ", "ಕಾಲೇಜ್", "ಶಿಕ್ಷಣ"],
+    "category": "college"
+  },
+  {
+    "id": "lakshmaan",
+    "url": "https://l-akshmikanth.github.io/lakshmaan/",
+    "nameEn": "Lakshmaan Wedding Invitation",
+    "nameKa": "ಲಕ್ಷ್ಮಾನ್ ವಿವಾಹ ಆಮಂತ್ರಣ",
+    "screenshotPath": null,
+    "tagsEn": ["Wedding", "Invitation", "WhatsApp-Ready"],
+    "tagsKa": ["ವಿವಾಹ", "ಆಮಂತ್ರಣ", "ವಾಟ್ಸ್‌ಆಪ್"],
+    "category": "invitation"
+  },
+  {
+    "id": "engagement",
+    "url": "https://l-akshmikanth.github.io/engagement-invitation/",
+    "nameEn": "Engagement Invitation",
+    "nameKa": "ನಿವೇದನ ಆಮಂತ್ರಣ",
+    "screenshotPath": null,
+    "tagsEn": ["Engagement", "Invitation", "WhatsApp-Ready"],
+    "tagsKa": ["ನಿಶ್ಚಿತಾರ್ಥ", "ಆಮಂತ್ರಣ", "ವಾಟ್ಸ್‌ಆಪ್"],
+    "category": "invitation"
+  },
+  {
+    "id": "invitation",
+    "url": "https://l-akshmikanth.github.io/invitation/",
+    "nameEn": "Custom Invitation Page",
+    "nameKa": "ಕಸ್ಟಮ್ ಆಮಂತ್ರಣ ಪುಟ",
+    "screenshotPath": null,
+    "tagsEn": ["Invitation", "Event", "WhatsApp-Ready"],
+    "tagsKa": ["ಆಮಂತ್ರಣ", "ಕಾರ್ಯಕ್ರಮ", "ವಾಟ್ಸ್‌ಆಪ್"],
+    "category": "invitation"
+  }
+]
