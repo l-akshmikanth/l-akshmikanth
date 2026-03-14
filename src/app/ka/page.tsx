@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import { translations } from "@/lib/i18n";
 import Header from "@/components/Header";
 import HeroSection from "@/components/HeroSection";
+import SkillsSection from "@/components/SkillsSection";
 import PortfolioGallery from "@/components/PortfolioGallery";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
@@ -27,21 +28,12 @@ export const metadata: Metadata = {
 
 export default function KannadaPage() {
   return (
-    <div className="min-h-screen flex flex-col bg-white dark:bg-gray-950">
+    <div className="min-h-screen flex flex-col" style={{ background: "var(--bg)" }}>
       <Header locale="ka" />
       <main className="flex-1">
         <HeroSection locale="ka" />
-        <div id="projects">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-4">
-            <h2 className="text-3xl font-bold text-gray-900 dark:text-white text-center">
-              {translations.ka.heading}
-            </h2>
-            <p className="mt-2 text-gray-500 dark:text-gray-400 text-center">
-              {translations.ka.subtitle}
-            </p>
-          </div>
-          <PortfolioGallery projects={projects} locale="ka" />
-        </div>
+        <SkillsSection locale="ka" />
+        <PortfolioGallery projects={projects} locale="ka" />
         <ContactSection locale="ka" />
       </main>
       <Footer locale="ka" />
